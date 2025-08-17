@@ -38,10 +38,5 @@
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter)](https://twitter.com/your-handle)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/swaraj-kohinkar-1598a8308)  
 
----
-
-✨ *“The best way to predict the future is to create it — with AI.”*
