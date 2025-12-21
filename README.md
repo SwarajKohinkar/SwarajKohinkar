@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Swaraj Kohinkar  
 
-💻 Aspiring AI/ML Developer | 🌱 Currently Learning Python & Machine Learning | 🚀 Hackathon Enthusiast  
+💻 Aspiring AI/ML Developer | 🌱 Currently Learning Python & Machine Learning | Learning WebDev and DSA | 🚀 Hackathon Enthusiast  
 
 ---
 
@@ -8,14 +8,14 @@
 - 🎓 Engineering Student with a passion for **Artificial Intelligence & Machine Learning**  
 - 💡 Interested in **Data Science, Deep Learning, and Web + AI Integration**  
 - 🌱 Currently learning **Python, NumPy, Pandas, and Scikit-Learn**  
-- 🎯 Goal: Build real-world AI/ML projects and contribute to open-source AI research  
+- 🎯 Goal: Build real world AI/ML projects and contribute to open source AI research  
 
 ---
 
 ## 🛠️ Skills
-- **Languages:** Python, C, C++, HTML, CSS, JavaScript  
+- **Languages:** Python, Flask, C, C++, HTML, CSS, JavaScript  
 - **AI/ML (Learning):** NumPy, Pandas, Matplotlib, Scikit-Learn  
-- **Frontend:** Tailwind CSS, Bootstrap  
+- **Frontend:** Tailwind CSS, Bootstrap, React  
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Linux Ubuntu  
 - **Soft Skills:** Problem Solving, Team Collaboration, Presentations  
 
