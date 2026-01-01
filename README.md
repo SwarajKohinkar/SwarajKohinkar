@@ -93,11 +93,7 @@ Engineering Student passionate about <b>Artificial Intelligence, Machine Learnin
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/swaraj-kohinkar-1598a8308">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/swaraj-kohinkar-1598a8308)
 
 ---
 
