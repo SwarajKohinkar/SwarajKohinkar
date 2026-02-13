@@ -66,21 +66,12 @@ Engineering Student passionate about <b>Artificial Intelligence</b>,
 ### 🔎 FinLense  
 **Full-Stack AI-Powered Financial Intelligence Platform**
 
-🚀 Built with a modern production-ready stack:
-
-- ⚡ Next.js (Full-stack framework)
-- ⚛️ React
-- 🎨 Tailwind CSS + shadcn/ui
-- 🗄️ Supabase (Auth + Database + Backend services)
-
-💡 Features:
-- Smart financial data visualization
-- Secure authentication
-- Scalable cloud database integration
-- Clean, responsive UI
-
 🔗 Repository:  
-https://github.com/vivekprajapati-exe/finlense
+<p>
+  <a href="https://github.com/vivekprajapati-exe/finlense">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
 
 ---
 
@@ -89,35 +80,13 @@ https://github.com/vivekprajapati-exe/finlense
 
 A full-stack intelligent scheduling system using optimization techniques.
 
-### 🌐 Frontend Stack
-- React (Vite)
-- Tailwind CSS
-- shadcn/ui
-- JavaScript
-- Axios
-- Deployment: Vercel
-
-### ⚙️ Backend Stack
-- Python
-- FastAPI
-- Uvicorn
-- SQLAlchemy
-- NumPy / Pandas (Logic & Optimization)
-- Genetic Algorithm (Custom Optimization Logic)
-- Deployment: Render
-
-### 🗄️ Database
-- SQLite (Local Development)
-- Supabase (PostgreSQL – Production)
-
-💡 Highlights:
-- AI-based timetable optimization
-- Constraint-based scheduling
-- Clean UI + scalable backend architecture
-- Production deployment ready
 
 🔗 Repository:  
-https://github.com/SwarajKohinkar/Smart_TimeTable
+<p>
+  <a href="https://github.com/SwarajKohinkar/Smart_TimeTable">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
 
 
 ## 📊 GitHub Stats
